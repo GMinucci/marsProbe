@@ -18,7 +18,7 @@ After starting the script, just write the commands and press enter. After enteri
 
 ## Known issues:
 * The UI sometimes display the probe on a incorrect position.
-
+* Missing tests (Should add some soon)
 
 ## Related links:
 * https://gist.github.com/nirev/c42c35eb9a839f7756558519f361bc06
